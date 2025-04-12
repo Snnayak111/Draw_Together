@@ -1,4 +1,4 @@
-# 🎨 Draw-Together
+# 🎨 Draw_Together
 
 Draw-Together is a real-time collaborative drawing web application. It allows multiple users to join a room and draw on a shared canvas simultaneously.
 
